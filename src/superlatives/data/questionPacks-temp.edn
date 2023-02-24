@@ -1,0 +1,9 @@
+[{:name "College Classics"
+  :questions ["Would ace the exam intoxicated"
+              "Would do “anything” for a grade"
+              "Would stop lecture when they don't understand"
+              "Unpaid Intern 4 Life"
+              "Thou who never showers"
+              "First to the pre-game"]}
+ {:name "Blank"
+  :questions []}]

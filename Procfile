@@ -1,0 +1,1 @@
+web: clojure -m superlatives.core
